@@ -2,8 +2,6 @@
 
 > This project was a collaboration between the [PSINET](https://www.psinet.cl/). The goal was to explore the feasibility of extracting legal information in accurate and efficient ways. The project was developed by Victor Faraggi, Ken Miyake and Andres Olivares. This is a copy of the original repository without any reference to the actual customer.
 
- a system that can retrieve and generate legal documents using state-of-the-art techniques in Natural Language Processing (NLP).
-
 ## Installation
 
 We have changed the installation process to use a more reproducible one: [Poetry](https://python-poetry.org/docs/).
