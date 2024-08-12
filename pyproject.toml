@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-streamlit = "^1.29.0"
+streamlit = "^1.37.0"
 openai = "1.2.0"
 python-docx = "^1.1.0"
 python-levenshtein = "^0.23.0"
